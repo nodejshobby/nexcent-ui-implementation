@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #4CAF4F;
+    --secondary-color: #263238;
+}
+
+body {
+    scroll-behavior: smooth;
+    color: var(--secondary-color);
+}
